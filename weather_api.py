@@ -1,2 +1,2 @@
 # www.worldweatheronline.com API Key
-weather_api_key="b0eb11ac9fc141fba1c132600212510"
+weather_api_key="961a86d3e63645f2b5e111017212510"
